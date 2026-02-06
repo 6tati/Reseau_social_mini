@@ -48,7 +48,7 @@ Assurez-vous d'avoir installé :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-pseudo/reseau-social-mini.git
+git clone https://github.com/6tati/Reseau_social_mini.git
 ```
 
 ### 2. Déplacer le dossier
