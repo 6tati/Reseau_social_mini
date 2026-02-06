@@ -47,7 +47,7 @@ Assurez-vous d'avoir installé :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-pseudo/reseau-social-mini.git
+git clone https://github.com/6tati/Reseau_social_mini.git
 ```
 
 ### 2. Déplacer le dossier
@@ -199,5 +199,6 @@ Le fichier `database.sql` crée automatiquement les tables suivantes :
 Ce projet a été réalisé dans le cadre d'un cours à l'**École Normale Supérieure de l'Enseignement Technique de Mohammedia** — Université Hassan II de Casablanca.
 
 ---
+
 
 > 💡 **Astuce** : Pour tester rapidement, créez deux comptes différents dans deux onglets ou navigateurs pour tester l'amitié, la messagerie et les notifications.
